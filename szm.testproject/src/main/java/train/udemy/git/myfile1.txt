@@ -1,0 +1,4 @@
+first line
+Fixing a bug..
+second line
+Implementing new feature...
